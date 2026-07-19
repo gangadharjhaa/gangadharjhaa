@@ -118,11 +118,11 @@
 
 ---
 
-# 📈 Contribution Graph
+# 🔥 Contribution Heatmap
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gangadharjhaa&theme=tokyo-night"/>
+<img src="https://ghchart.rshah.org/0e75b6/gangadharjhaa" alt="Gangadhar Jha's GitHub Contribution Heatmap" />
 
 </p>
 
