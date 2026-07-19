@@ -1,10 +1,16 @@
 <div align="center">
 
-# Hi 👋, I'm Shaktiman
+# 👋 Hi, I'm Gangadhar Jha
 
-### 🚀 MCA Student | Java Developer | Python Enthusiast | Future AI Engineer
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&duration=3500&pause=1000&center=true&vCenter=true&width=750&lines=Aspiring+AI+Engineer;Java+Developer;Python+Developer;DSA+Enthusiast;Machine+Learning+Learner;Building+AI+Agents;Always+Learning+🚀" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Java+Developer;Python+Developer;DSA+Learner;AI+Agent+Builder;Open+Source+Enthusiast" />
+<p>
+<img src="https://komarev.com/ghpvc/?username=gangadharjhaa&label=Profile%20Views&color=0e75b6&style=flat"/>
+</p>
+
+### 🚀 Aspiring AI Engineer | Java Developer | Python Enthusiast | MCA Student
+
+*"Building software today, creating intelligent systems tomorrow."*
 
 </div>
 
@@ -12,62 +18,81 @@
 
 # 💫 About Me
 
-🎓 MCA Student
+🎓 MCA Student passionate about **Software Development**, **Artificial Intelligence**, and **Problem Solving**.
 
-💻 Passionate about Software Development & Artificial Intelligence
+💻 I enjoy solving coding problems, building applications, and exploring how AI can automate real-world tasks.
 
-🌱 Currently learning
+🌱 I believe in continuous learning and improving one step every day.
 
-- Data Structures & Algorithms
-- Java Development
-- Python for AI
-- Machine Learning
-- AI Agents
-- SQL & Databases
+🎯 **Career Goal**
 
-🎯 Goal
-
-> Become an AI Engineer capable of building intelligent agents that automate real-world tasks.
+> To become an AI Engineer capable of building intelligent systems and AI agents that solve real-world problems.
 
 ---
 
-# 🛠️ Tech Stack
+# 🌱 Currently Learning
 
-### Languages
+- ☕ Advanced Java
+- 📚 Data Structures & Algorithms
+- 🐍 Python
+- 📊 Pandas & NumPy
+- 🤖 Machine Learning
+- 🧠 AI Agents
+- 🔗 LangChain
+- 🗄 SQL & Databases
+
+---
+
+# 💻 Tech Stack
+
+## 👨‍💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,c,js,html,css" />
+<img src="https://skillicons.dev/icons?i=java,python,c,javascript,html,css"/>
 </p>
 
-### Database
+## 📚 Libraries & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql" />
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white"/>
+
 </p>
 
-### Tools
+## 🗄 Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea" />
+<img src="https://skillicons.dev/icons?i=mysql"/>
+</p>
+
+## 🛠 Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea"/>
 </p>
 
 ---
 
-# 📚 Currently Learning
+# 🚀 Current Focus
 
-✔ Advanced Java
+- 📚 Solving LeetCode Problems Daily
+- ☕ Mastering Java
+- 🤖 Building AI Agents
+- 🧠 Learning Machine Learning
+- 📊 Data Analytics
+- 🌍 Open Source Contributions
 
-✔ Data Structures & Algorithms
+---
 
-✔ Machine Learning
+# 📜 Certifications
 
-✔ Pandas & NumPy
+🏅 Introduction to Modern AI — Cisco Networking Academy
 
-✔ AI Agents
-
-✔ LangChain
-
-✔ SQL
+🏅 Data Analytics Essentials — Cisco Networking Academy
 
 ---
 
@@ -75,9 +100,9 @@
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=gangadharjhaa&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=gangadharjhaa&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -87,50 +112,61 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gangadharjhaa&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🏆 GitHub Trophy
+# 📈 Contribution Graph
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&margin-w=15"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gangadharjhaa&theme=tokyo-night"/>
 
 </p>
 
 ---
 
-# 📌 Featured Projects
+# 🏆 GitHub Trophies
 
-🚀 AI Job Application Agent
+<p align="center">
 
-📊 Data Analysis Projects
+<img src="https://github-profile-trophy.vercel.app/?username=gangadharjhaa&theme=algolia&no-frame=true&margin-w=12"/>
 
-🧠 Machine Learning Models
-
-☕ Java Projects
-
-📚 DSA Solutions
+</p>
 
 ---
 
-# 🌐 Connect with Me
+# 🎯 2026 Goals
 
-<p>
+- 🚀 Solve **500+ LeetCode Problems**
+- ☕ Master Java & DSA
+- 🤖 Build AI Agents using LLMs
+- 🧠 Learn Machine Learning
+- 🌍 Contribute to Open Source
+- 💼 Secure a Software Engineering Internship
 
-<a href="https://github.com/YOUR_USERNAME">
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/gangadharjhaa">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+<a href="https://www.linkedin.com/in/gangadharjhaa/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:gangadharjhaa@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/GangadharJha/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
 </p>
@@ -139,10 +175,12 @@
 
 <div align="center">
 
-### ⚡ Fun Fact
+## 💭 Quote
 
-> "Code. Learn. Build. Repeat."
+> **"The expert in anything was once a beginner who refused to give up."**
 
 ⭐ Thanks for visiting my profile!
+
+### 🚀 Keep Learning • Keep Building • Keep Growing
 
 </div>
